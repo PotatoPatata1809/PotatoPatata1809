@@ -266,18 +266,6 @@ Computer vision application implementing face recognition using modern ML techni
 </td>
 <td width="50%" valign="top">
 
-### 📊 [contribution-history](https://github.com/PotatoPatata1809/contribution-history)
-
-<img src="https://img.shields.io/badge/Status-Private-FF6B6B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Type-Personal-9C27B0?style=flat-square"/>
-
-**Generated GitHub contribution history**
-
-Personal tracking and analytics project for monitoring development activity and contribution patterns over time.
-
-🔧 **Purpose:** Analytics, Tracking
-📝 **Focus:** GitHub API, Data Visualization
-
 </td>
 </tr>
 </table>
