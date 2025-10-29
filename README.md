@@ -397,12 +397,80 @@ Working on several ML and full-stack applications including AI agents, cloud dep
 
 ## 🌱 What I'm Currently Working On
 
-- 🔭 Exploring **AI Agents** and **Language Models** for intelligent systems
-- 🌐 Building full-stack applications with **MERN stack**
-- ☁️ Learning **Cloud Computing** (Azure, AWS)
-- 🤖 Implementing **ML models** in production environments
-- 📊 Advancing **Computer Vision** and **Deep Learning** skills
-- 🧠 Studying **System Design** and **Software Architecture**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔥 Active Projects
+
+- 🎭 **Sentiment Analysis Web App**
+  - Deploying NLP models using AWS SageMaker
+  - Building interactive React frontend
+  - Implementing real-time sentiment prediction
+  
+- 🏦 **Banking System Enhancement**
+  - Advanced Java OOP concepts
+  - MySQL database optimization
+  - Transaction management features
+
+- 👤 **Face Recognition Application**
+  - OpenCV integration for real-time detection
+  - Deep learning model fine-tuning
+  - Performance optimization
+
+- 🤖 **AI Agent Exploration**
+  - Learning LangChain framework
+  - Building conversational AI systems
+  - Exploring RAG (Retrieval Augmented Generation)
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Currently Learning
+
+- ☁️ **Cloud Computing**
+  - Azure fundamentals and services
+  - AWS SageMaker for ML deployment
+  - Cloud architecture patterns
+  
+- 🧠 **AI & Machine Learning**
+  - Large Language Models (LLMs)
+  - AI Agent frameworks and workflows
+  - Prompt engineering techniques
+
+- 🌐 **Full-Stack Development**
+  - Advanced React patterns and hooks
+  - Node.js backend architecture
+  - REST API design best practices
+
+- 📊 **System Design**
+  - Scalable architecture patterns
+  - Database design and optimization
+  - Microservices fundamentals
+
+</td>
+</tr>
+</table>
+
+### 🎯 Upcoming Plans
+
+<div align="center">
+
+```
+📅 Short-term Goals (Next 3 months)
+├── Complete Azure Cloud Storage & Management Certification
+├── Build 2-3 full-stack MERN applications
+├── Contribute to open-source ML projects
+└── Enhance deepfake detection project with web deployment
+
+🚀 Long-term Vision (Next 6-12 months)  
+├── Master AI Agent development with LangChain
+├── Build production-ready ML systems
+├── Participate in Kaggle competitions
+└── Publish research findings or technical blogs
+```
+
+</div>
 
 ---
 
