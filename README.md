@@ -336,57 +336,52 @@ Working on several ML and full-stack applications including AI agents, cloud dep
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PotatoPatata1809&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PotatoPatata1809&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PotatoPatata1809&theme=tokyonight&hide_border=true&background=0D1117" />
-
-<br/><br/>
-
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=PotatoPatata1809&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-
-</div>
-
----
-
 ## 🎯 Current Focus & Goals
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Aakash's Journey))
-    Learning
-      Cloud Computing
-        Azure Certification
-        AWS Fundamentals
-      AI & ML
-        Language Models
-        AI Agents
-        RAG Systems
-      Full Stack
-        MERN Projects
-        System Design
-    Building
-      ML Web Apps
-      AI Integrations
-      Portfolio Projects
-    Exploring
-      MLOps
-      Edge Computing
-      Model Deployment
-    Contributing
-      Open Source
-      Research Papers
-      Tech Community
-```
+### 🚀 Learning & Building
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/☁️-Cloud_Computing-0078D4?style=for-the-badge"/>
+<br/><br/>
+<b>Exploring</b>
+<br/>
+• Azure Certification<br/>
+• AWS Fundamentals<br/>
+• Cloud Deployment
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🤖-AI_&_ML-FF6B6B?style=for-the-badge"/>
+<br/><br/>
+<b>Learning</b>
+<br/>
+• Language Models<br/>
+• AI Agents<br/>
+• RAG Systems
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/💻-Full_Stack-00D9FF?style=for-the-badge"/>
+<br/><br/>
+<b>Building</b>
+<br/>
+• MERN Projects<br/>
+• System Design<br/>
+• ML Web Apps
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🌟-Contributing-FFD700?style=for-the-badge"/>
+<br/><br/>
+<b>Exploring</b>
+<br/>
+• Open Source<br/>
+• Research Papers<br/>
+• Tech Community
+</td>
+</tr>
+</table>
 
 </div>
 
