@@ -266,6 +266,18 @@ Computer vision application implementing face recognition using modern ML techni
 </td>
 <td width="50%" valign="top">
 
+### 💡 More Projects Coming Soon!
+
+<img src="https://img.shields.io/badge/Status-In_Progress-FFA500?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-ML_&_Full--Stack-9C27B0?style=flat-square"/>
+
+**Currently building exciting new projects...**
+
+Working on several ML and full-stack applications including AI agents, cloud deployments, and MERN stack projects. Stay tuned!
+
+🔧 **Areas:** AI Agents, Cloud Computing, MERN Stack
+📝 **Goal:** Portfolio expansion and skill development
+
 </td>
 </tr>
 </table>
