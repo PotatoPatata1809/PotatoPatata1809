@@ -79,6 +79,11 @@ class AakashKushwaha:
             "company": "Finlatics Financial Market Experience Program",
             "period": "Jun 2025 - Aug 2025"
         }
+         
+         ### 🏆 Achievements
+         - Selected as a Campus Partner in the Perplexity AI Global Program
+         - Achieved 650+ student signups and conducted multiple AI awareness sessions
+         - Received an official Letter of Recommendation (LOR) from Perplexity AI 
     
     def say_hi(self):
         print("Thanks for visiting! Let's build something amazing together! 🚀")
